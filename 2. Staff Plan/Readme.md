@@ -1,9 +1,8 @@
 # What is staff planning?
 
 Staff planning, also sometimes referred to as workforce planning, is understanding and managing an organization’s personnel requirements. This involves:
-
-    The number of employees a company needs
-    The type of employees a company needs 
+- The number of employees a company needs
+- The type of employees a company needs 
 
 The aim is to make sure you aren’t under- or overstaffed, maximize employee satisfaction, and build or maintain the right skill set to achieve company goals.
 
