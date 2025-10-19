@@ -1,3 +1,136 @@
+# **Praxis Framework: Part 3 - Competence**
+
+## **3.1 Overview**
+
+### **Three Groups of Competencies in Praxis**
+*   **Delivery competencies:** These are based on the functions described in section 3.3.
+*   **Process competencies:** These are based on the individual processes defined in Part 2 of the framework.
+*   **Interpersonal competencies:** These are addressed in the corresponding sections of Part 1.
+
+### **Adapting and Tailoring Competencies**
+*   Each function or process has only one competency, which must be adapted to the specific situation where it is applied.
+*   This means a competency must be aligned with the complexity and environment of the work, and whether it is being managed as a project, programme, or portfolio.
+*   Indicative suggestions for tailoring are included with each competency, but these are not exhaustive.
+
+### **Alignment with the Capability Maturity Model**
+*   The level of individual performance described in these competencies is aligned with **Level 2** in the capability maturity model, which requires competent staff.
+*   The competencies are primarily aimed at a P3 Manager role and will need adaptation for other roles like Sponsor, Assurance, or Support.
+*   The maturity model provides the organizational context in which these individual competencies are applied.
+
+### **Relationship to Other Parts of the Praxis Framework**
+*   **Part 1 (Knowledge)** and **Part 2 (Method)** provide the overall structure for the competency framework.
+*   In return, the performance criteria defined within these competencies provide benchmarks for assessing individual performance.
+
+### **Structure of Each Competency**
+*   **Objectives:**
+    *   This section lists the specific goals that the competency is designed to achieve.
+*   **Performance criteria:**
+    *   These describe what a person must effectively do to be considered competent in achieving the goals.
+*   **Knowledge and understanding:**
+    *   This outlines the relevant principles, procedures, tools, and techniques a person must know and understand to effectively demonstrate the performance criteria.
+
+## **3.2 Management Competencies**
+
+*   This section includes competencies that relate to the management functions described in Part 1.
+*   The context functions generally do not have corresponding competencies, with one exception: the sponsorship function. The competency for the sponsorship process also covers the sponsorship function.
+*   These competencies are divided into two types:
+    *   **Delivery Competencies (Section 3.3)**
+    *   **Interpersonal Competencies (Section 3.4)**
+
+## **3.3 Delivery Competencies**
+
+*   Delivery competencies align with the delivery functions from Part 1.
+*   The titles reflect the practical application of these functions. For example, the competency is 'Manage stakeholders,' which is the application of the function 'stakeholder management.'
+
+### **3.3.1 Provide assurance**
+*   **Objectives:**
+    *   To review management planning.
+    *   To monitor the effectiveness of functions and processes.
+    *   To give stakeholders confidence that the work is being managed effectively and efficiently.
+*   **Performance criteria - You must be able to:**
+    *   P1 plan and initiate assurance.
+    *   P2 review the design and implementation of life cycle-based processes.
+    *   P3 review the design and implementation of management plans.
+    *   P4 audit the performance of quality control activities and review any resulting corrective action.
+    *   P5 maintain assurance documentation.
+    *   P6 communicate the outcomes of assurance to stakeholders.
+*   **Knowledge and understanding - You need to know and understand:**
+    *   K1 the goals of assurance.
+    *   K2 responsibilities for assurance.
+    *   K3 the context of the work and its impact on assurance.
+    *   K4 assurance procedures and techniques.
+    *   K5 the purpose and content of assurance documentation.
+    *   K6 the principles of the P3 functions and processes being assured.
+    *   K7 how to adapt assurance throughout the life cycle.
+    *   K8 how to communicate assurance outcomes to stakeholders.
+
+> **Tailoring Note:** This competency can be applied internally or externally. For external assurance, it would include checking internal assurance. In high-risk or regulated environments, the knowledge criteria may be expanded to include specific assurance techniques.
+
+*(This structured format is applied to all subsequent delivery competencies from 3.3.2 to 3.3.14, including Manage the organisation, Manage stakeholders, Manage the business case, Plan governance, Plan delivery, Exercise control, Manage information, Manage scope (and its sub-competencies), Manage the schedule, Manage finance (and its sub-competencies), Manage risk, Manage change, and Manage resources (and its sub-competencies), detailing their Objectives, Performance criteria, and Knowledge and understanding as provided in the original text.)*
+
+## **3.4 Interpersonal Competencies**
+
+*   Interpersonal competencies align with the interpersonal functions in Part 1.
+*   The titles reflect the practical application; for example, 'Manage conflict' is the application of 'conflict management.'
+*   These competencies are not unique to P3 management but are focused on how these skills need to be implemented within the P3 context.
+
+### **3.4.1 Communicate**
+*   **Objectives:**
+    *   To impart relevant information.
+    *   To ensure the information is understood.
+*   **Performance criteria - You must be able to:**
+    *   P1 determine what needs to be communicated and its context.
+    *   P2 identify the target audience and establish any preferred methods and language.
+    *   P3 identify potential barriers to communication and seek to reduce them.
+    *   P4 deliver communication in an effective and timely way.
+    *   P5 ensure that team members and stakeholders have the opportunity to communicate their views.
+    *   P6 seek feedback on the effectiveness of communication and act accordingly.
+*   **Knowledge and understanding - You need to know and understand:**
+    *   K1 the goals of communication.
+    *   K2 the context of the work and its impact on communication.
+    *   K3 different forms of communication.
+    *   K4 factors that affect the effectiveness of communication.
+    *   K5 potential barriers to communication.
+    *   K6 how to tailor a message to its intended audience.
+    *   K7 the media available and their advantages and disadvantages.
+
+> **Tailoring Note:** This competency focuses on the skills of a good communicator. The procedural aspects are covered in stakeholder and information management.
+
+
+*(This structured format is applied to all subsequent interpersonal competencies from 3.4.2 to 3.4.7, including Manage conflict, Delegate, Lead, Influence, Negotiate, and Work within a team, detailing their Objectives, Performance criteria, and Knowledge and understanding as provided in the original text.)*
+
+## **3.5 Process Competencies**
+
+*   Process competencies align with the processes described in Part 2.
+*   The titles reflect practical application; for example, 'Identify a project or programme' is the enactment of the 'identification process.'
+
+### **3.5.1 Identify a project or programme**
+*   **Objectives:**
+    *   To develop an outline of the project or programme and assess whether it is likely to be justifiable.
+    *   To determine what effort and investment is needed to define the work in detail.
+    *   To gain the sponsor’s authorisation for the definition phase.
+*   **Performance criteria - You must be able to:**
+    *   P1 perform initial requirements management.
+    *   P2 identify and review lessons learned and prepare high-level delivery plans.
+    *   P3 assess whether the project or programme is justifiable.
+    *   P4 decide whether to govern the work as a project or a programme.
+    *   P5 plan the definition phase.
+    *   P6 prepare and present the brief and definition plan to the sponsor.
+    *   P7 assure the quality of the process.
+*   **Knowledge and understanding - You need to know and understand:**
+    *   K1 the goals of the process.
+    *   K2 the typical activities that make up the process.
+    *   K3 the context of the work and its impact on the process.
+    *   K4 how to apply the relevant functional procedures at an appropriate level of detail.
+    *   K5 the difference between a project and a programme, and the circumstances in which either form of governance is applied.
+    *   K6 the purpose and content of a brief and definition plan.
+    *   K7 how assurance applies to the process.
+
+> **Tailoring Note:** This process may be omitted if a client or parent programme has already performed the identification. However, it is a key competency for any manager to have.
+
+
+*(This structured format is applied to all subsequent process competencies from 3.5.2 to 3.5.10, including Sponsor a project or programme, Define a project or programme, Deliver a project or programme (and its sub-competency), Manage boundaries, Close a project or programme, Realise benefits, Initiate a portfolio, Govern a portfolio, Manage a portfolio, and Co-ordinate projects and programmes, detailing their Objectives, Performance criteria, and Knowledge and understanding as provided in the original text.)*
+
 # **Praxis Framework: Part 4 - Capability Maturity**
 
 ## **4.1 Overview of Capability Maturity**
