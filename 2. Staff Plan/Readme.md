@@ -9,3 +9,5 @@ The aim is to make sure you aren’t under- or overstaffed, maximize employee sa
 Typically, companies undertake staff planning at the start of a new budget cycle or a new project. Its scope can be all-encompassing — covering staff from the full organization — or a specific team or department. 
 
 Regardless of when you go into personnel planning or what the scope is, it’s essential to understand that it’s not a one-and-done process. Instead, staff planning is related to proactively maintaining a living document specifying an organization’s current skillset and staff requirements. 
+
+<img width="1024" height="1024" alt="Untitled" src="https://github.com/user-attachments/assets/8252b5d3-2c70-4668-87d9-c7e3d544c022" />
