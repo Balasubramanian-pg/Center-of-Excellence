@@ -1,7 +1,7 @@
 # **Delivery Plan Template**
 
 ## **1. Description**
-> **Purpose:** Briefly describe what the plan encompasses.
+**Purpose:** Briefly describe what the plan encompasses.
 
 - **Project/Programme Name:**
 - **Plan Type:** (e.g., Project Definition, Stage Plan, Benefits Realisation, Communication, Exception, Contingency)
@@ -12,7 +12,7 @@
 > This section sets the context for the plan. Be concise but ensure the reader understands the purpose and boundaries of the plan.
 
 ## **2. Dependencies**
-> **Purpose:** List external factors that impact the plan’s success.
+**Purpose:** List external factors that impact the plan’s success.
 
 - **Approvals Required:**
 - **Linked Projects/Programmes:**
@@ -24,7 +24,7 @@
 > Unmet dependencies can delay or derail the plan. Regularly review and update this section.
 
 ## **3. Assumptions**
-> **Purpose:** Document assumptions that underpin the plan.
+**Purpose:** Document assumptions that underpin the plan.
 
 - **Key Assumptions:**
   - Example: "Resource X will be available from [date]."
@@ -34,7 +34,7 @@
 > Revisit assumptions regularly. If an assumption proves incorrect, the plan may need revision.
 
 ## **4. Lessons Incorporated**
-> **Purpose:** Capture lessons learned from previous similar work.
+**Purpose:** Capture lessons learned from previous similar work.
 
 | **Lesson**               | **Source**               | **Action Taken**                     |
 |--------------------------|--------------------------|--------------------------------------|
@@ -44,7 +44,7 @@
 > Lessons should be actionable. Avoid generic statements—focus on specific improvements.
 
 ## **5. Scope**
-> **Purpose:** Define what the plan covers—and what it does not.
+**Purpose:** Define what the plan covers—and what it does not.
 
 ### **In Scope**
 - Objective 1
@@ -60,7 +60,7 @@
 > Clearly stating what is *not* included prevents scope creep and misunderstandings.
 
 ## **6. Schedule**
-> **Purpose:** Outline the timeline, milestones, and key activities.
+**Purpose:** Outline the timeline, milestones, and key activities.
 
 - **Key Milestones:**
   - Milestone 1: [Date] – [Description]
@@ -76,7 +76,7 @@
 > Use Gantt charts, critical path diagrams, or other visual aids to clarify the schedule.
 
 ## **7. Finance**
-> **Purpose:** Detail the budget and financial controls.
+**Purpose:** Detail the budget and financial controls.
 
 | **Category**            | **Estimated Cost** | **Notes**                     |
 |-------------------------|--------------------|-------------------------------|
@@ -88,7 +88,7 @@
 > Ensure all costs are realistic and aligned with organisational financial policies.
 
 ## **8. Control**
-> **Purpose:** Describe how the plan will be monitored and controlled.
+**Purpose:** Describe how the plan will be monitored and controlled.
 
 - **Monitoring:**
   - Regular progress reviews (frequency: [e.g., bi-weekly])
@@ -104,7 +104,7 @@
 > Define tolerances for time, cost, and quality to trigger corrective action.
 
 ## **9. Complementary Documentation**
-> **Purpose:** Reference related documents to avoid duplication.
+**Purpose:** Reference related documents to avoid duplication.
 
 | **Document**            | **Location**       | **Relevance**                     |
 |-------------------------|--------------------|-----------------------------------|
