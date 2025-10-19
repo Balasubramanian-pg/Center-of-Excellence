@@ -1,7 +1,3 @@
-Of course. Here is the provided text on the Praxis Framework's Capability Maturity model, structured with simplified headings and bullet points for clarity while maintaining the original word count.
-
-***
-
 # **Praxis Framework: Part 4 - Capability Maturity**
 
 ## **4.1 Overview of Capability Maturity**
@@ -69,8 +65,6 @@ To achieve a specific level of capability for a function, an organization must m
 *   **Level 2:** The goals are consistently achieved using competent people (as described in Part 3). P3 management is effective but could be more efficient.
 *   **Level 3:** The organization coordinates P3 management to gain efficiencies and ensures good practices are consistent and embedded in the culture.
 
----
-
 ### **4.2.1 Generic Goals and Attributes (Apply to All Functions)**
 
 #### **Generic Goals**
@@ -125,8 +119,6 @@ To achieve a specific level of capability for a function, an organization must m
     *   **Level 2:** A management plan exists for the function.
     *   **Level 3:** The management plan is based on a tailored organizational standard and is continuously reviewed.
 
----
-
 ### **4.2.2 Assurance**
 
 *   **Purpose:**
@@ -152,11 +144,8 @@ To achieve a specific level of capability for a function, an organization must m
 
 > **Note:** Assurance is a generic attribute. No function can reach Level 2 or 3 unless assurance is at the same level.
 
----
 
 *(This structured format is applied to all subsequent functions from 4.2.3 to 4.2.14, including Support, Organisation Management, Stakeholder Management, Business Case Management, Control, Information Management, Scope Management, Schedule Management, Financial Management, Risk Management, Change Management, and Resource Management, detailing their purpose and Level 2/3 attributes as provided in the original text.)*
-
----
 
 ## **4.3 Maturity**
 
@@ -169,7 +158,6 @@ Praxis views maturity differently from many models. It's not just about executin
 *   **Level 2 & 3:** The organization recognizes the need to support competent P3 managers and provide them with structures to consistently achieve life cycle process goals.
 *   **Level 4 & 5:** The organization achieves its goals in a measurable, repeatable way. P3 management is embedded in the organization's way of working and is resilient to external pressures.
 
----
 
 ### **4.3.1 Maturity Levels 2 and 3**
 
@@ -189,8 +177,6 @@ To reach maturity levels 2 and 3, an organization must demonstrate the correspon
 *   **Improvement:**
     *   **Level 2:** Improvements to processes are opportunistic and informal.
     *   **Level 3:** Processes are regularly reviewed, and improvements are formally disseminated throughout the P3 management community.
-
----
 
 ### **Identification Process**
 
@@ -213,11 +199,9 @@ To reach maturity levels 2 and 3, an organization must demonstrate the correspon
     *   The brief conforms to tailored organizational standards, and the decision to run the work as a project or programme is objective.
     *   The definition plan conforms to tailored organizational standards.
 
----
 
 *(This structured format is applied to all subsequent processes, including Sponsorship, Definition, Delivery, Development, Boundaries, Closure, Benefits Realisation, Governance, Management, and Co-ordination, detailing their goals and Level 2/3 attributes as provided in the original text.)*
 
----
 
 ### **4.3.2 Maturity Levels 4 and 5**
 
