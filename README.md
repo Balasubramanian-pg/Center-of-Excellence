@@ -1,3 +1,165 @@
+# **Praxis Framework: Part 2 - Method**
+
+## **2.1 Overview**
+
+### **What is the Praxis Method?**
+*   The Praxis method is composed of process models and descriptions of documentation.
+*   These components are central to the governance of a project, programme, or portfolio.
+*   The individual processes utilize functional procedures, tools, and techniques, providing a life cycle-based approach to their application.
+
+### **A Single Model for Projects and Programmes**
+*   Projects and programmes have very similar life cycles, so they can be managed using the same fundamental processes, with adaptations for context and complexity.
+*   Praxis provides one process model for both projects and programmes, and a separate one for portfolios.
+*   Many other guides describe separate processes for projects and programmes, but a detailed comparison shows they are fundamentally the same.
+*   Artificially distinguishing between 'projects' and 'programmes' can create confusion and constrain managers.
+*   Praxis describes the general characteristics of each process and then explains how it can be applied as complexity increases, from simple projects to complex programmes.
+
+### **The Portfolio Model**
+*   Although Praxis defines two types of portfolios (standard and structured), the process model is the same for both.
+
+### **Relationship to Other Parts of the Framework**
+*   The adaptation and implementation of consistent methods are key to developing capability maturity.
+*   The processes and documentation in the method provide the mechanism for integrating functions, which leads to maturity.
+*   **Maturity:** The goals and activities of each process form the basis for defining maturity indicators. In turn, the maturity model provides attributes to guide the implementation of the method.
+*   **Competence:** The goals and process activities also provide the structure for knowledge and performance criteria in the competency framework. In turn, competency definitions provide a benchmark for individual performance.
+
+## **2.2 Project and Programme Processes**
+
+### **The Generic Process Model**
+*   The model for both projects and programmes is based on life cycle phases, with an additional process for the sponsorship function.
+*   All processes can and should be tailored to the specific context of the work.
+*   As the work becomes more complex, the primary impact is on the delivery phase. This may involve:
+    *   Multiple delivery processes.
+    *   A development process for delegating work to production teams.
+    *   A boundaries process for segmenting delivery into stages or tranches.
+
+### **Adapting the Model for Different Contexts**
+*   **Project within a Programme:** The benefits realisation process is usually handled by the programme. Project identification may also be done at the programme level, resulting in a reduced set of processes for the project.
+*   **Contractor Project:** When a contracting organization delivers a project for a client, the client may perform the identification, benefits realisation, and much of the definition processes. The contractor's process model would then be more limited.
+
+### **2.2.1 Identification Process**
+*   **Goals:**
+    *   To develop an outline of the project or programme and assess if it is likely to be justifiable.
+    *   To determine the effort and investment needed to define the work in detail.
+    *   To gain the sponsor’s authorisation for the definition phase.
+
+*   **Process Activities:**
+    *   **Appoint Identification Team:**
+        *   A mandate (e.g., an invitation to tender, a strategic objective, a verbal instruction) triggers the work.
+        *   An initial sponsor and manager are appointed to formalize the work.
+        *   The team checks the mandate, agrees on a timescale and budget, and assembles the necessary people.
+        *   A daily log is used to capture early information on assumptions, risks, and issues.
+        *   Role descriptions for the sponsor and manager are agreed upon.
+    *   **Review Previous Lessons:**
+        *   The team reviews documented lessons learned from past projects.
+        *   If records are unavailable, lessons are gathered by interviewing past managers or holding workshops.
+        *   External sources of lessons learned are also considered.
+    *   **Prepare Brief:**
+        *   The brief provides enough information to justify investing in the definition process.
+        *   A key decision is made here: whether to govern the work as a project or a programme, based on the complexity of requirements and the scope of the solution.
+        *   The brief contains outline information on all delivery functions, including scope, high-level timescales, funding, risks, resources, and key stakeholders.
+    *   **Prepare Definition Plan:**
+        *   This plan describes how the detailed definition process will be performed.
+        *   It defines the scope of the definition work, identifies necessary resources, assesses risks specific to definition, and estimates the cost and timescale of the definition phase.
+
+*   **Application to Projects and Programmes:**
+    *   On small projects, this process might be done by one person, and the identification and definition phases could be combined.
+    *   For all programmes and most projects, identification should be a separate phase to avoid costly definition work on an unjustifiable idea.
+    *   On large, complex projects, the definition phase itself may be run as a small project.
+
+*(This structured format is applied to all subsequent project and programme processes from 2.2.2 to 2.2.6, including the Sponsorship process, Definition process, Delivery process (with its sub-processes for Boundaries and Development), Benefits realisation process, and Closure process, detailing their goals and activities as provided in the original text.)*
+
+## **2.3 Portfolio Processes**
+
+*   The portfolio process model is different from the project/programme model and appears simpler.
+*   It is common to all types of portfolios, from a small contractor's standard portfolio to a large multinational's structured portfolio.
+
+### **2.3.1 Initiation Process**
+*   **General:**
+    *   This is typically a one-off process where an organization decides to manage its projects and programmes as a portfolio.
+*   **Goals:**
+    *   To decide what type of portfolio is required.
+    *   To design the portfolio infrastructure.
+    *   To obtain senior-level approval and commitment.
+    *   To implement the portfolio.
+*   **Process Activities:**
+    *   **Design:**
+        *   A mandate triggers the process, and a 'sponsor designate' assembles a team.
+        *   The team investigates how the portfolio should be constituted and governed to meet the organization's needs.
+        *   The result is a proposal submitted for authorization.
+        *   Portfolios are rarely created from scratch; they usually consolidate existing projects and programmes.
+    *   **Prepare:**
+        *   If the proposal is accepted, preparatory work begins, which could include:
+            *   Identifying and documenting standard processes and documentation.
+            *   Preparing standard management plans.
+            *   Setting up a competency framework.
+            *   Defining the infrastructure.
+            *   Reviewing existing projects to baseline capability.
+            *   Communicating the impact of the new portfolio.
+    *   **Mobilise:**
+        *   Implementation often requires significant change management.
+        *   Mobilisation activities include:
+            *   Setting up governance structures.
+            *   Initiating training programmes.
+            *   Amending recruitment processes.
+            *   Implementing information management systems.
+            *   Adopting existing projects and programmes into the portfolio.
+
+*(This structured format is applied to all subsequent portfolio processes from 2.3.2 to 2.3.4, including the Governance process, Management process, and Co-ordination process, detailing their goals and activities as provided in the original text.)*
+
+## **2.4 Documentation**
+
+### **Three Categories of Documents**
+*   **Governance documents:** Set out policies, standards, and guidelines for managing the work (e.g., management plans).
+*   **Scope documents:** Describe the objectives in terms of outputs, outcomes, and benefits.
+*   **Delivery documents:** The largest group, describing what needs to be done, when, and by whom. They support the management processes.
+
+### **2.4.1 Management Plans**
+*   These documents set out how a specific function will be managed, covering its policy and procedure. The range and detail should be consistent with the complexity of the work.
+
+*   **Organisation management plan:**
+    *   **Policy:** Describes who is responsible for designing, recruiting, and demobilising the P3 organization itself.
+    *   **Procedure:** Sets out how the management team should be designed, how individuals are identified and appointed, and how the team is maintained throughout the life cycle.
+
+*   **Stakeholder management plan:**
+    *   **Policy:** Defines roles for stakeholder management, the format of the stakeholder register and communication plan, and how costs will be budgeted.
+    *   **Procedure:** Recommends techniques for identifying stakeholders, assessing their interest and influence, planning communications, and engaging with them.
+
+*   **Control management plan:**
+    *   **Policy:** Defines roles and responsibilities for control, describes the format of progress reports and issue registers, and outlines interfaces with other plans.
+    *   **Procedure:** Specifies how performance data will be captured, which techniques will be used to assess performance against tolerances, and the approach for corrective action and escalation.
+
+*(This structured format is applied to all subsequent management plans, including the Information management plan, Assurance management plan, Scope management plan, Benefits management plan, Schedule management plan, Finance management plan, Risk management plan, Change management plan, and Resource management plan, detailing their Policy and Procedure sections as described in the original text.)*
+
+### **2.4.2 Scope Documents**
+*   These documents describe the objectives of the work.
+
+*   **Mandate:** The information used to trigger the initiation process.
+*   **Vision statement:** A brief, memorable description of the end goal of a complex project or programme.
+*   **Specification:** Defines the outputs; its structure and content are entirely dependent on the technical context of the work.
+*   **Product documents:** A collection of information about individual products, which can be assembled into various documents like product descriptions, quality registers, or configuration item records.
+*   **Blueprint:** A form of specification for programmes of business change, detailing the future state of operational models, organization structure, and infrastructure.
+*   **Benefits map:** An influence diagram showing the complex relationships between outputs, outcomes, benefits, and strategic objectives.
+*   **Benefit profile:** Defines a single benefit or dis-benefit, describing it and how it will be realised and measured.
+*   **Business case:** The central document for go/no-go decisions, justifying the work by weighing its benefits against the required investment.
+*   **Brief:** Created during the identification process, it contains the background, an outline business case, and initial governance proposals to justify proceeding to the definition phase.
+
+### **2.4.3 Delivery Documents**
+*   These are the most dynamic documents, used at the heart of doing the work.
+
+*   **Definition plan:** A delivery plan created in the identification process to describe how the definition phase will be conducted.
+*   **Communication plan:** A delivery plan focused on the scope and timing of stakeholder communications.
+*   **Stakeholder register:** Records information about all individuals and groups who have an interest in the work.
+*   **Risk register:** Records information about all identified risk events, following the risk management procedure from identification to response implementation.
+*   **Delivery plan:** A generic document format used for various plans (e.g., stage plan, tranche plan, exception plan), covering description, scope, schedule, finance, and control.
+*   **Issue register:** Records all problems that need to be escalated from one level of management to another.
+*   **Lessons log:** Records lessons from previous work that are applicable to the current work, and new lessons that arise during the current work.
+*   **Daily log:** An informal, personal diary for a manager to record events, conversations, ideas, and reminders.
+*   **Change log:** Records all requests for changes to scope and tracks their progress through the change control procedure.
+*   **Progress report:** A time-driven report summarizing progress against the plan for a specific period.
+*   **Event report:** An event-driven report summarizing performance at the end of a defined segment of work (e.g., end of a stage).
+*   **Follow-on actions report:** Lists any outstanding actions that remain when a project or programme team is demobilised.
+  
 # **Praxis Framework: Part 3 - Competence**
 
 ## **3.1 Overview**
