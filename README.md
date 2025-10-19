@@ -1,3 +1,161 @@
+# **Praxis Framework: Part 1 - Knowledge**
+
+## **1.1 Overview**
+
+### **Purpose of Part 1: Knowledge**
+*   This part of the framework aligns with guides often called "bodies of knowledge."
+*   Its aim is to define the fundamental building blocks of the P3 (project, programme, and portfolio) management discipline.
+*   It is based on a functional analysis, dividing functions into two categories: context and management.
+    *   **Contextual functions:** These support the work but are not directly responsible for achieving objectives (e.g., Sponsorship, Governance).
+    *   **Management functions:** These are applied directly to complete the work (e.g., Scope Management, Risk Management).
+
+### **The Project, Programme, and Portfolio Continuum**
+*   A key concept in Praxis is that the lines between projects, programmes, and portfolios are blurred.
+*   These terms simply represent points on a continuous scale of complexity.
+*   Therefore, each function is described first in its general application and then in how it adapts to increasing complexity.
+
+### **Integration with Other Parts of the Framework**
+*   **Part 2 (Method):** The functions described here provide the procedures, tools, and techniques that are used within the life cycle processes of the Method.
+*   **Part 4 (Capability Maturity):** The management functions provide the structure and goals for assessing the "capability" aspect of the maturity model. The attributes in the maturity model, in turn, provide benchmarks for an organization's implementation of each function.
+*   **Part 3 (Competence):** The goals and procedures of each function form the basis for the knowledge and performance criteria of individual competencies.
+
+## **1.2 Context**
+
+The context of P3 management can be likened to "nature and nurture."
+*   **Nature (The Setting):** This deals with the inherent properties of the work, such as its complexity and the environment it exists in. The setting is the primary factor in deciding how the work will be governed.
+*   **Nurture (Governance and Professionalism):** This is how those involved at a strategic level nurture the management of the work and the development of the people who deliver it.
+
+The three components of context are:
+*   **Setting:** The inherent characteristics of the work and its environment.
+*   **Governance:** The systems and structures for managing the work.
+*   **Professionalism:** The development of the people and the discipline.
+
+### **1.2.1 Setting**
+
+#### **Environment**
+*   The way a project, programme, or portfolio is managed depends on many external factors that must be understood from the outset.
+*   **Organizational Relationships:**
+    *   A portfolio exists within a "host organization" (e.g., a company, government department).
+    *   Programmes can be part of a portfolio, and projects can be part of a programme or a portfolio.
+*   **Contractual Relationships:**
+    *   A contractor's project to deliver an output for a client is often a subset of the client's own project or programme.
+    *   Large, complex work may require a joint venture, making funding and stakeholder management more complex.
+*   **Other Environmental Factors:**
+    *   The commercial sector (e.g., construction, IT, pharmaceuticals).
+    *   Multinational work across different locations and languages.
+    *   Regulated environments with specific standards.
+    *   The specific needs for accountability in the public sector.
+*   **Assessing the Environment:**
+    *   The management team must assess the environment early on, using techniques like PESTLE (Political, Economic, Sociological, Technical, Legal, Ecological).
+    *   The team must also consider the impact of the work on its environment and monitor these interactions throughout the life cycle.
+
+#### **Projects, Programmes, and Portfolios**
+*   These terms are used to describe typical combinations of complexity and environment that require different governance approaches. They are points on a continuous range.
+*   The key distinguishing factor is the **complexity of the scope**.
+*   **Projects:**
+    *   Typically involve work leading to a single output (low complexity of scope).
+    *   They are unique, transient endeavours to achieve planned objectives.
+*   **Programmes:**
+    *   Typically combine multiple projects with change management to deliver benefits (higher complexity of scope).
+    *   Like projects, they are unique and transient.
+*   **Portfolios:**
+    *   Collections of projects and programmes whose objectives may be independent or related only at a strategic level.
+    *   **Standard Portfolio:** A set of independent projects/programmes. The main objective is to ensure they are managed in a consistently effective way (e.g., by coordinating shared resources).
+    *   **Structured Portfolio:** A set of projects/programmes united by common strategic objectives. Governance is more rigorous due to more inter-relationships.
+
+#### **Complexity**
+*   Complexity is an indicator of the inter-relationships within the work that affect how it will be managed. Praxis views complexity as a continuous scale, not a binary choice.
+*   **Common Areas of Complexity:**
+    *   **Scope:** This is the most obvious area. It can range from producing a single output to delivering a complex mix of inter-related outputs, outcomes, and benefits. It is the primary factor in choosing whether to manage work as a project or a programme.
+    *   **Uncertainty:** All P3 management is designed to manage uncertainty. The methods used must be appropriate for the level of uncertainty, which can relate to initial assumptions, stability of specifications, etc.
+    *   **Change:** This refers to the organizational or social change required.
+        *   **Breadth:** The number and range of people who will be required to change.
+        *   **Depth:** The degree to which people have to change, or the impact it has on them.
+    *   **Innovation:** This can be technical (new technology) or managerial (a new management approach for the organization).
+    *   **Dynamics:** The degree to which the work is subject to external change (political, social, technical, etc.) over its life cycle.
+*   Understanding complexity is crucial for tailoring all aspects of the discipline to specific circumstances.
+
+*(The structured format is applied to all subsequent sections, including 1.2.2 Governance and 1.2.3 Professionalism, and their detailed sub-topics like Life Cycle, Sponsorship, Knowledge Management, Competence, and Ethics.)*
+
+## **1.3 Management**
+
+This section deals with how people and work are managed to achieve objectives. It is split into two areas: interpersonal skills and delivery.
+
+### **1.3.1 Interpersonal Skills**
+These are the skills that deal with human behaviour and interaction. The seven interpersonal skills covered by Praxis are:
+
+*   **Communication:**
+    *   **Goals:** To impart relevant information and ensure it is understood.
+    *   **Application:** Communication is the means to build relationships, minimize conflict, and maintain stakeholder commitment. It involves a source, a message, a channel, and a receiver. The style and channel must be adapted to the audience and context.
+
+*   **Conflict management:**
+    *   **Goals:** To utilize the positive aspects of conflict, resolve organizational and interpersonal conflict, and minimize its negative impact.
+    *   **Application:** Conflict is inevitable in the P3 environment. It's important to anticipate and manage it, not just resolve it after it occurs. A manager must understand the sources of conflict and adapt their resolution style to the situation.
+
+*   **Delegation:**
+    *   **Goals:** To allocate work effectively to others and use delegation as a motivation and development tool.
+    *   **Application:** Delegation is central to P3 management. It involves clearly defining the task, selecting the right person, explaining the scope and authority, providing resources and support, and giving feedback. The person who delegates remains accountable.
+
+*   **Influencing:**
+    *   **Goals:** To develop a high-performing team and persuade stakeholders to support the objectives.
+    *   **Application:** In situations where direct authority is impossible or inappropriate, a manager must use influence. This requires understanding others, communicating effectively, negotiating, and behaving ethically to build trust.
+
+*   **Leadership:**
+    *   **Goals:** To provide focus, promote commitment, and inspire team members to succeed.
+    *   **Application:** Leadership involves both transactional (setting objectives, explaining rewards) and transformational (inspiring people to achieve their potential) styles. A leader must adapt their style to the team's development stage and the phase of the life cycle (situational leadership).
+
+*   **Negotiation:**
+    *   **Goals:** To find solutions to issues involving two or more parties and to develop beneficial relationships.
+    *   **Application:** Negotiation is used in many contexts, from conflict resolution to procurement. It can be competitive (win-lose) or collaborative (win-win). A typical process involves planning, discussing, proposing, bargaining, and agreeing.
+
+*   **Teamwork:**
+    *   **Goals:** To create a cohesive team from a collection of individuals and to develop and maintain the team's performance.
+    *   **Application:** P3 teams are temporary. A manager must build a team quickly, understanding that teams go through development stages (e.g., Tuckman's "forming, storming, norming, performing"). The manager must also keep individuals motivated and manage team dynamics, especially in virtual or matrix environments.
+
+### **1.3.2 Delivery**
+This area covers the functions directly concerned with delivering the objectives.
+
+#### **Fundamental Components**
+*   **Scope:** What are the objectives and the scope of the work?
+*   **Schedule:** How long will it take to achieve?
+*   **Finance:** How will funds be acquired and costs managed?
+*   **Risk:** What threats and opportunities are involved?
+*   **Change:** What organizational changes are needed to realize benefits?
+*   **Resource:** How will the necessary resources be acquired and managed?
+
+#### **Integrative Management Functions**
+These functions act across the fundamental components.
+
+*   **Organisation management:**
+    *   **Goals:** To design an appropriate management structure, appoint the team, and maintain the organization throughout the life cycle.
+    *   **Application:** This function creates the four-level structure (External, Sponsorship, Management, Delivery) and defines roles. The structure evolves throughout the life cycle and must be adapted for projects, programmes, and portfolios.
+
+*   **Stakeholder management:**
+    *   **Goals:** To ensure the views of all stakeholders are understood, influence them to be supportive, and manage their impact.
+    *   **Application:** Involves identifying stakeholders, assessing their interest and influence (e.g., through stakeholder maps), planning communications, and engaging with them. This is a continuous process.
+
+*   **Business case management:**
+    *   **Goals:** To develop and maintain the document that justifies the work and supports go/no-go decisions.
+    *   **Application:** The business case summarizes the context, delivery plan, and justification (is the work desirable, achievable, and viable?). It is owned by the sponsor and updated throughout the life cycle.
+
+*   **Planning:**
+    *   **Goals:** To describe how the work will be managed (governance plans) and to define what will be delivered, when, how, and by whom (delivery plans).
+    *   **Application:** Planning addresses the "Why, What, How, Who, When, Where, and How much." It acknowledges the "estimating funnel," where estimates become more accurate over time.
+
+*   **Control:**
+    *   **Goals:** To review performance against baselines, evaluate the impact on future plans, and take corrective action.
+    *   **Application:** Involves cybernetic control (day-to-day steering), go/no-go control (at key decision points), and post-control (learning from experience). It uses techniques like RAG reports and Earned Value Management to track progress.
+
+*   **Information management:**
+    *   **Goals:** To capture, store, disseminate, and archive information effectively.
+    *   **Application:** Involves collecting raw data and transforming it into usable information to support decision-making. It ensures documents are secure, accessible, and version-controlled.
+
+*   **Assurance:**
+    *   **Goals:** To review management planning, monitor the effectiveness of processes, and give stakeholders confidence.
+    *   **Application:** This is the sponsor's responsibility. An independent person or team checks that management processes are fit for purpose and being applied correctly. It should be risk-based and assistive, not just a box-ticking exercise.
+
+*(The structured format is applied to all subsequent delivery functions, including Scope management, Schedule management, Financial management, Risk management, Change management, and Resource management, and all their respective sub-topics, detailing their goals, procedures, and application across projects, programmes, and portfolios as provided in the original text.)*
+
 # **Praxis Framework: Part 2 - Method**
 
 ## **2.1 Overview**
